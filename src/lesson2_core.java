@@ -40,5 +40,5 @@ public class lesson2_core {
           return sum;
       }
     }
-
+//привет
 
